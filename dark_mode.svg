@@ -99,9 +99,9 @@
       font-family="'Consolas','Menlo','DejaVu Sans Mono',monospace"
       xml:space="preserve"
       font-size="16">
-      <tspan fill="#3d444d">─</tspan>
+      <tspan fill="#3d444d">─────────────</tspan>
       <tspan fill="#58a6ff"> Saketsasanka30@github </tspan>
-      <tspan fill="#3d444d">────────────────────────────</tspan>
+      <tspan fill="#3d444d">─────────────</tspan>
     </text>
 
     <!-- PERSONAL INFO -->
